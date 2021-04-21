@@ -16,20 +16,20 @@ struct Config {
         "RING:\n\r"
         "          *       \n\r"
         "       *     *    \n\r"
-        "     *         *  \n\r"
+        "     *         *  \n\r" 
         "    *           * \n\r"
         "     *         *  \n\r"
         "       *     *    \n\r"
         "          *       \n\r",
-        "SLOPE:\n\r"
+        "UP:\n\r"
         "        *        \n\r"
-        "       *         \n\r"
-        "      *          \n\r"
-        "     *           \n\r"
-        "    *            \n\r"
-        "   *             \n\r"
-        "  *              \n\r"
-        " * * * * * * * * \n\r"};
+        "        *        \n\r"
+        "        *        \n\r"
+        "        *        \n\r"
+        "        *        \n\r"
+        "        *        \n\r"
+        "        *        \n\r"
+        "        *       \n\r"};
 };
 
 Config config;
