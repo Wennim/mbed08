@@ -159,4 +159,4 @@ int main(int argc, char* argv[]) {
       error_reporter->Report(config.output_message[gesture_index]);
     }
   }
-}d
+}
