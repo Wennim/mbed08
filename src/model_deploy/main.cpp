@@ -156,6 +156,7 @@ int main(int argc, char* argv[]) {
 
     // Produce an output
     if (gesture_index < label_num) {
+      printf("%d\n",gesture_index);
       error_reporter->Report(config.output_message[gesture_index]);
     }
   }
